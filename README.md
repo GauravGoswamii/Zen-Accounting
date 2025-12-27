@@ -17,4 +17,4 @@ It’s a slick, elegant, and modern UI experience — one that I’m truly proud
  I hope, maybe it could sparkle up your eyes ✨
 
 
-Image of the Website (images/zen accounting.jpeg)
+Image of the Website !(images/zen-accounting.jpeg)
